@@ -14,7 +14,7 @@ const Cards = ({name , inceptionYear , tech , img , link}) => {
                     <br />
                     Inception Year: {inceptionYear}
                 </Card.Text>
-                <a href={link} target="_blank" rel="noopener noreferrer" className="border border-slate-700 rounded-md bg-zinc-950 text-gradient p-4 mt-5 ml-2 inline-block">
+                <a href={link} target="_blank" rel="noopener noreferrer" className="border border-slate-700 rounded-md bg-zinc-950 text-gradient p-4 mt-5 ml-2 inline-block ">
                     View This Website
                 </a>
             </Card.Body>

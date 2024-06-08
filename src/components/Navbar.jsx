@@ -11,7 +11,7 @@ const Navbar = ({projectsRef ,statsRef , moreRef}) => {
       };
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-        <img src={logo} alt="logo" className='w-[100px] h-[100px]'/>
+        <img src={logo} alt="logo" className='w-[200px] h-[150px]'/>
 
         <ul className='list-none sm:flex hidden justify-end items-center fles-1 z-10'>
             <li className='font-poppins font-normal cursor-pointer text-[16px] text-white mr-10'>Home</li>

@@ -4,7 +4,7 @@ import image3 from "./image3.jpeg";
 import card from "./card.png";
 import python from "./python-removebg-preview.png";
 import dropbox from "./dropbox.png";
-import logo from "./OIP (5)_processed.jpeg";
+import logo from "./12345.png";
 import quotes from "./quotes.svg";
 import runner from "./imagerun-removebg.png";
 import send from "./Send.svg";
@@ -20,9 +20,9 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
-import people03 from "./people03.png";
+import yesss from "./yesss.png";
+import nooo from "./nooo.png";
+import yo from "./yoo.png";
 
 
 export {
@@ -48,7 +48,7 @@ export {
   instagram,
   linkedin,
   twitter,
-  people01,
-  people02,
-  people03,
+  yesss,
+  nooo,
+  yo,
 };
