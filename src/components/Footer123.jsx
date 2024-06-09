@@ -22,7 +22,7 @@ const Footer123 = () => {
                 <li className="mb-2">
                   <div className="flex flex-row items-center ss:ml-0 ml-3">
                     <img src={nooo} alt="Codechef Logo" className="sm:w-[70px] sm:h-[70px] w-[40px] h-[40px] mr-2" />
-                    <a href="https://leetcode.com/u/Sanshray03/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
+                    <a href="https://www.codechef.com/users/sanshray076" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
                       CodeChef
                     </a>
                   </div>
@@ -30,7 +30,7 @@ const Footer123 = () => {
                 <li className="mb-2">
                   <div className="flex flex-row items-center ss:ml-0 ml-3">
                     <img src={yo} alt="Github Logo" className="sm:w-[70px] sm:h-[70px] w-[40px] h-[40px] mr-2" />
-                    <a href="https://leetcode.com/u/Sanshray03/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
+                    <a href="https://github.com/Sanshray06" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
                       Github
                     </a>
                   </div>
